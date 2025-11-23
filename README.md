@@ -2,6 +2,7 @@
 
 <!--
 **DiegogncDev/DiegogncDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![image alt](https://github.com/DiegogncDev/DiegogncDev/blob/e596744f4cd4ae412c2eb023a496f14594d7e96a/banner_github_better.png)
 
 ## About me
 - Android Developer
