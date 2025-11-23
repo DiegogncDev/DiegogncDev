@@ -20,9 +20,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">BalanceApp</h3>
 <div align="center">
-<a href=https://github.com/DiegogncDev/BalanccApp target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href=https://github.com/DiegogncDev/BalanccApp target="_blank"></a>
 <p>
 <a href=https://github.com/DiegogncDev/BalanccApp target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -37,7 +37,7 @@
                <br>
 <h3 align="center">NegooxTools</h3>
 <div align="center">                                       
-<a href="https://github.com/DiegogncDev/NegooxTools" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/DiegogncDev/NegooxTools" target="_blank"></a>
 <br>
 <p>
 <a href="https://github.com/DiegogncDev/NegooxTools" target="_blank">
@@ -51,16 +51,3 @@
 <br>
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
